@@ -10,6 +10,7 @@ import {Keys} from "../../../Intents/Keys";
 import {Map} from "immutable";
 import state$ from "../../../Models/Model";
 
+// go
 export class HomePageViewModel {
     title: string;
     name: KnockoutObservable<string>;
